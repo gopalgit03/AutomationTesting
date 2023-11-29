@@ -60,9 +60,7 @@ public class MunimTesting {
 
 		driver.findElement(By.xpath("//*[@id=\"root\"]/div[1]/div/div[2]/div[3]/div[1]/div[2]/button[2]")).click();
 
-		// Close the browser
-		// driver.quit();
-		//driver.close();
+				
 
 	}
 
